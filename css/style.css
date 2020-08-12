@@ -32,6 +32,9 @@ header h1{
     color: #888;
     border-bottom: 1px solid #ddd;
 }
+.nav-pills .nav-link:hover{
+	background: #ecf0f1;
+}
 .nav-pills .nav-link:last-child{
 	border-bottom: none;
 }
